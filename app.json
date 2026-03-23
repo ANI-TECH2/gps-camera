@@ -57,7 +57,8 @@
           "cameraPermissionText": "Allow GPS Camera to access your camera.",
           "enableMicrophonePermission": false
         }
-      ]
+      ],
+      "expo-sharing"
     ],
     "extra": {
       "router": {
